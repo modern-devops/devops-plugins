@@ -1,0 +1,7 @@
+desc: python 3.11.0
+
+resource:
+  archives:
+    url: 
+      linux: https://github.com/actions/python-versions/releases/download/3.11.0-rc.2-3172748327/python-3.11.0-rc.2-linux-20.04-x64.tar.gz
+    path: python

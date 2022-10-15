@@ -1,0 +1,5 @@
+desc: lint code
+
+entry:
+  command:
+    "*": echo "this is a linter"
